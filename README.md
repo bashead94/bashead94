@@ -9,11 +9,11 @@ I am currently studying Computer Science with Artifical Intelligence at the Univ
 
 ### 🛠️ Languages & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,php,cpp,c,cs,ruby,swift,kotlin,rust,go,wasm" />
+  <img src="https://skillicons.dev/icons?i=python,haskell,sql" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,postgres,git,github,vscode,tailwind,bootstrap,figma" />
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
 </p>
 
 ---
