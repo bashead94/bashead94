@@ -21,6 +21,9 @@ I am currently studying Computer Science with Artifical Intelligence at the Univ
 
 > [!TIP]
 > Click a badge to view my full transcript on Microsoft Learn.
+>
+> 
+> [![Microsoft Learn Profile](https://img.shields.io/badge/Microsoft%20Learn-Profile-00a2ed?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-gb/users/ashleyhead-3372/achievements)
 
 ### 🔭 Current Focus
 - 🤖 Deepening my knowledge in **Machine Learning Model Training**.
@@ -52,8 +55,7 @@ I am currently studying Computer Science with Artifical Intelligence at the Univ
 
 
 
->
-> [![Microsoft Learn Profile](https://img.shields.io/badge/Microsoft%20Learn-Profile-00a2ed?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-gb/users/ashleyhead-3372/achievements)
+
 
 
 
