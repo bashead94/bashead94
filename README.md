@@ -16,7 +16,9 @@ I am currently studying Computer Science with Artifical Intelligence at the Univ
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Bashead94) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Ashleyhead94@hotmail.co.uk) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Bashead94) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Ashleyhead94@hotmail.co.uk) 
 
 
 
