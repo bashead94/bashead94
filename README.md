@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="PASTE_YOUR_IMAGE_URL_HERE" alt="My Profile Banner" width="100%">
+</p>
+
+# Hi there, I'm Ashley! 👋
+... (the rest of your code)
+
+
+
+
+
 # 💫 About Me:
 I am currently studying Computer Science with Artifical Intelligence at the University of Gloucestershire. <br>I am learning Python code on Mimo and undertaking an Azure course.<br>
 
@@ -18,4 +29,33 @@ I am currently studying Computer Science with Artifical Intelligence at the Univ
 ---
 [![](https://visitcount.itsvg.in/api?id=bashead94&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM (  ) -->
+# Hi there, I'm Ashley! 👋
+
+### 🛠️ Languages & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,php,cpp,c,cs,ruby,swift,kotlin,rust,go,wasm" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,postgres,git,github,vscode,tailwind,bootstrap,figma" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=bashead94&show_icons=true&theme=radical&hide_border=false" alt="Ashley's Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashead94&layout=compact&theme=radical&hide_border=false" alt="Top Langs" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+- 🔭 I’m currently working on **[Insert Project Name]**
+- 🌱 I’m currently learning **[Insert Language]**
+- 💬 Ask me about **[Your Interests]**
+- 📫 Reach me at: **[Your Email/LinkedIn]**
