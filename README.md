@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PASTE_YOUR_IMAGE_URL_HERE" alt="My Profile Banner" width="100%">
+  <img src="github-header-banner.png" alt="My Profile Banner" width="100%">
 </p>
 
 # Hi there, I'm Ashley! 👋
