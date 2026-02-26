@@ -57,4 +57,26 @@ I am currently studying Computer Science with Artifical Intelligence at the Univ
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Bashead94) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Ashleyhead94@hotmail.co.uk) 
 
+
+## 🎖️ Microsoft Learn Achievements
+<p align="left">
+  <a href="https://learn.microsoft.com/en-gb/users/ashleyhead-3372/achievements" target="_blank">
+    <img src="https://learn.microsoft.com/training/achievements/azure-fundamentals-240x240.svg" width="120" title="Azure Fundamentals" />
+  </a>
+  <a href="https://learn.microsoft.com/en-gb/users/ashleyhead-3372/achievements" target="_blank">
+    <img src="https://learn.microsoft.com/training/achievements/design-machine-learning-model-training-solution.svg" width="120" title="Design ML Models" />
+  </a>
+  <a href="https://learn.microsoft.com/en-gb/users/ashleyhead-3372/achievements" target="_blank">
+    <img src="https://learn.microsoft.com/training/achievements/describe-capabilities-of-microsoft-analytics-solutions.svg" width="120" title="Microsoft Analytics" />
+  </a>
+  <a href="https://learn.microsoft.com/en-gb/users/ashleyhead-3372/achievements" target="_blank">
+    <img src="https://learn.microsoft.com/training/achievements/microsoft-azure-ai-fundamentals-get-started-ai.svg" width="120" title="AI Fundamentals" />
+  </a>
+</p>
+
+> [!TIP]
+> Click a badge to view my full transcript on Microsoft Learn.
+>
+> [![Microsoft Learn Profile](https://img.shields.io/badge/Microsoft%20Learn-Profile-00a2ed?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-gb/users/ashleyhead-3372/achievements)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
