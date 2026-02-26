@@ -12,20 +12,25 @@ I am currently studying Computer Science with Artifical Intelligence at the Univ
 # 💻 Tech Stack:
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
+## 🏆 Microsoft Learn Achievements
 
-## 🏆 Microsoft & AI Achievements
 <p align="left">
-  <a href="https://learn.microsoft.com/en-gb/users/ashleyhead-3372/achievements">
-    <img src="https://learn.microsoft.com/training/achievements/design-machine-learning-model-training-solution.svg" width="150" alt="Machine Learning Achievement" />
+  <a href="https://learn.microsoft.com/en-gb/users/ashleyhead-3372/achievements" target="_blank">
+    <img src="https://raw.githubusercontent.com/microsoftdocs/azure-docs/master/articles/machine-learning/media/overview-what-is-azure-ml/azure-machine-learning-badge.png" width="100" title="Azure Fundamentals" style="margin-right: 10px;" />
   </a>
-  
-  <a href="https://learn.microsoft.com/api/achievements/share/en-gb/AshleyHead-3372/WVLVVTEN?sharingId=4D6A41AABBDE887F">
-    <img src="https://img.shields.io/badge/Microsoft%20Learn-Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoftazure&logoColor=white" height="40" alt="Azure Fundamentals" />
+  <a href="https://learn.microsoft.com/en-gb/users/ashleyhead-3372/achievements" target="_blank">
+    <img src="https://learn.microsoft.com/training/achievements/design-machine-learning-model-training-solution.svg" width="100" title="Design ML Models" style="margin-right: 10px;" />
+  </a>
+  <a href="https://learn.microsoft.com/en-gb/users/ashleyhead-3372/achievements" target="_blank">
+    <img src="https://learn.microsoft.com/training/achievements/describe-capabilities-of-microsoft-analytics-solutions.svg" width="100" title="Microsoft Analytics" style="margin-right: 10px;" />
+  </a>
+  <a href="https://learn.microsoft.com/en-gb/users/ashleyhead-3372/achievements" target="_blank">
+    <img src="https://learn.microsoft.com/training/achievements/microsoft-azure-ai-fundamentals-get-started-ai.svg" width="100" title="AI Fundamentals" />
   </a>
 </p>
 
-
-
+> [!TIP]
+> Click a badge to view my verified credentials on Microsoft Learn.
 
 
 ### 🤝 Let's Connect
