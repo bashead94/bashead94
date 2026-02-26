@@ -17,6 +17,7 @@ I am currently studying Computer Science with Artifical Intelligence at the Univ
 <p align="left">
   <img src="https://learn.microsoft.com/training/achievements/design-machine-learning-model-training-solution.svg" width="100" />
   <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-ai-fundamentals.svg" width="100" />
+  <img src="https://learn.microsoft.com/training/achievements/create-publish-luis-model.svg" width="100"/>
 </p>
 
 > [!TIP]
