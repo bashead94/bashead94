@@ -24,10 +24,10 @@ I am currently studying Computer Science with Artifical Intelligence at the Univ
 
 
 ### 🤝 Let's Connect
-- 🔭 I’m currently working on **[Insert Project Name]**
-- 🌱 I’m currently learning **[Insert Language]**
-- 💬 Ask me about **[Your Interests]**
-- 📫 Reach me at: **[Your Email/LinkedIn]**
+- 🔭 I’m currently working on **Fuctional Programming**
+- 🌱 I’m currently learning **LISP**
+
+
 
 
 
