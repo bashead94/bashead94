@@ -38,7 +38,6 @@ I am currently studying Computer Science with Artifical Intelligence at the Univ
 
 
 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bashead94&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=bashead94&theme=dark&hide_border=false)<br/>
